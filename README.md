@@ -12,7 +12,7 @@
 - Создать пустую VPC. Выбрать зону.
 
 ***Ответ:***
-![Alt text](https://i.ibb.co/KWZ7hfB/Screenshot-3.jpg)
+![Alt text](https://i.ibb.co/h7bc1Xt/Screenshot-2.jpg)
 
 2. Публичная подсеть.
 - Создать в vpc subnet с названием public, сетью 192.168.10.0/24.
@@ -20,7 +20,11 @@
 - Создать в этой публичной подсети виртуалку с публичным IP и подключиться к ней, убедиться что есть доступ к интернету.
 
 ***Ответ:***
-![Alt text](https://i.ibb.co/zRfrCRD/Screenshot-2.jpg)
+![Alt text](https://i.ibb.co/1MxNwWh/Screenshot-1.jpg)
+
+![Alt text](https://i.ibb.co/hYNmp3G/Screenshot-3.jpg)
+
+![Alt text](https://i.ibb.co/w0Zwgjd/Screenshot-4.jpg)
 
 ![Alt text](https://i.ibb.co/X5wpH60/Screenshot-9.jpg)
 
